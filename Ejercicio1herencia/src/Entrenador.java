@@ -16,7 +16,6 @@ public class Entrenador extends Persona {
     // para inicializar los atributos heredados.
     public Entrenador(Integer id, String nombre, String apellidos, Integer edad, String idFederacion) {
         super(id, nombre, apellidos, edad); // Inicializa los campos de Persona.
-        this.idFederacion = idFederacion;   // Inicializa el campo propio de Entrenador.
     }
 
     // Método 'getter' para el atributo específico de Entrenador.

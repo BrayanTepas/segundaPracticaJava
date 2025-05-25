@@ -1,7 +1,7 @@
 package ejercicio3interfaz.src; // Declara el paquete al que pertenece esta interfaz.
 
 // Una interfaz es un contrato que especifica un conjunto de métodos
-// que las clases que la implementen deben definir.
+// las clases que la implementen deben definir los metodos que tengan.
 public interface IProfesion {
 
     // Declara el método abstracto 'calcularSueldo()'.
